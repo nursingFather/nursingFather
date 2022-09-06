@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nursingFather
-- 👀 I’m interested in data analysis.
+- 👀 I’m interested in coding.
 - 📫you can reach me on linkedIn (https://www.linkedin.com/in/olusegun-gabriel-oni/)
 
 <!---
